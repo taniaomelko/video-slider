@@ -1,7 +1,7 @@
 {
   "name": "video-slider",
   "version": "0.1.0",
-  "homepage": "https://taniaomelko.github.io/video-slider.git",
+  "homepage": "https://taniaomelko.github.io/video-slider",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.1.0",
