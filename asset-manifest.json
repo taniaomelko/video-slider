@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/video-slider.git/static/css/main.ef94053d.css",
-    "main.js": "/video-slider.git/static/js/main.58ed7408.js",
-    "static/js/592.a6f4c329.chunk.js": "/video-slider.git/static/js/592.a6f4c329.chunk.js",
-    "index.html": "/video-slider.git/index.html",
-    "main.ef94053d.css.map": "/video-slider.git/static/css/main.ef94053d.css.map",
-    "main.58ed7408.js.map": "/video-slider.git/static/js/main.58ed7408.js.map",
-    "592.a6f4c329.chunk.js.map": "/video-slider.git/static/js/592.a6f4c329.chunk.js.map"
+    "main.css": "/video-slider/static/css/main.ef94053d.css",
+    "main.js": "/video-slider/static/js/main.fd024060.js",
+    "static/js/592.a6f4c329.chunk.js": "/video-slider/static/js/592.a6f4c329.chunk.js",
+    "index.html": "/video-slider/index.html",
+    "main.ef94053d.css.map": "/video-slider/static/css/main.ef94053d.css.map",
+    "main.fd024060.js.map": "/video-slider/static/js/main.fd024060.js.map",
+    "592.a6f4c329.chunk.js.map": "/video-slider/static/js/592.a6f4c329.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef94053d.css",
-    "static/js/main.58ed7408.js"
+    "static/js/main.fd024060.js"
   ]
 }
